@@ -6,6 +6,12 @@
 
 [web.dev](https://web.dev)
 
+### 编程语言
+#### javascript
+
+[javascript-info](https://javascript.info)
+
+
 ### 编程练习 
  
 [codewars](https://www.codewars.com/dashboard)
