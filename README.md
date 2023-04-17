@@ -1,5 +1,8 @@
 ## 计算机
 
+### blog
+[小林coding](https://xiaolincoding.com)
+
 ### 编程练习 
  
 [codewars](https://www.codewars.com/dashboard)
