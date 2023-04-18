@@ -52,6 +52,9 @@
 
 
 ## 数学
+
+[3blue1brown](https://www.3blue1brown.com)
+
 [mathsisfun](https://www.mathsisfun.com)
 
 
