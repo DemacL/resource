@@ -28,6 +28,9 @@
 #### 算法可视化
 [visualgo](https://visualgo.net)
 
+### 设计模式
+[design-patterns](https://refactoringguru.cn/design-patterns)
+
 
 ### Git
 [learngitbranching](https://learngitbranching.js.org)
