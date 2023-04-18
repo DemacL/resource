@@ -21,7 +21,12 @@
 
 
 ### 技术问答 
-[stackoverflow](https://stackoverflow.com/)
+
+[stackoverflow](https://stackoverflow.com)
+
+[quora](https://www.quora.com)
+
+
 
 ### markdown 
 [markdownguide](https://www.markdownguide.org/basic-syntax/)
