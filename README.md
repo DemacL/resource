@@ -72,6 +72,9 @@
 [excalidraw](https://excalidraw.com)
 
 
+#### 搜索
+[similarsitesearch](https://www.similarsitesearch.com)
+
 ## 数学
 
 [3blue1brown](https://www.3blue1brown.com)
