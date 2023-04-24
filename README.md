@@ -8,6 +8,8 @@
 
 [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
 
+[geeksforgeeks](https://www.geeksforgeeks.org)
+
 ### ebooks
 [manning](https://www.manning.com)
 
