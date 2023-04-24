@@ -8,6 +8,9 @@
 
 [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
 
+### ebooks
+[manning](https://www.manning.com)
+
 ### 编程语言
 
 #### javascript
