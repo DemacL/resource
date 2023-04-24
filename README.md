@@ -10,6 +10,8 @@
 
 [geeksforgeeks](https://www.geeksforgeeks.org)
 
+[medium](https://medium.com)
+
 ### ebooks
 [manning](https://www.manning.com)
 
