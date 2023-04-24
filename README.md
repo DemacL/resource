@@ -13,7 +13,7 @@
 
 ### 编程语言
 
-#### javascript
+#### JavaScript
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [javascript-info](https://javascript.info)
@@ -21,6 +21,9 @@
 [freecodecamp](https://www.freecodecamp.org/learn/)
 
 [google jsguide](https://google.github.io/styleguide/jsguide.html)
+
+#### TypeScript
+[TypeScript 入门教程](https://ts.xcatliu.com)
 
 #### json
 
