@@ -66,6 +66,8 @@
 
 [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 
+[图解设计模式](https://github.com/xongEr/Book/blob/master/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
 
 ### Git
 
