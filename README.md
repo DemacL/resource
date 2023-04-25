@@ -61,7 +61,10 @@
 [visualgo](https://visualgo.net)
 
 ### 设计模式
+
 [design-patterns](https://refactoringguru.cn/design-patterns)
+
+[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 
 
 ### Git
