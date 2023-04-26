@@ -64,7 +64,7 @@
 
 ### 设计模式
 
-[design-patterns](https://refactoringguru.cn/design-patterns)
+[refactoringguru](https://refactoringguru.cn/design-patterns)
 
 [sourcemaking](https://sourcemaking.com/design_patterns)
 
