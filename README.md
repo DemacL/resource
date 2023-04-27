@@ -99,6 +99,9 @@
 [excalidraw](https://excalidraw.com)
 
 
+#### chrome插件
+[广告拦截器adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=zh-CN)
+
 ### 设计
 
 [dribbble](https://dribbble.com)
