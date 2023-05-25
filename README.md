@@ -30,6 +30,8 @@
 
 [rx.js](https://cn.rx.js.org/manual/overview.html#-)
 
+[learnrxjs](https://www.learnrxjs.io/)
+
 #### TypeScript
 [TypeScript 入门教程](https://ts.xcatliu.com)
 
