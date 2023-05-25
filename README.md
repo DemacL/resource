@@ -17,6 +17,10 @@
 ### ebooks
 [manning](https://www.manning.com)
 
+### 函数式编程 FP
+
+[函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
+
 ### 编程语言
 
 #### JavaScript JS
