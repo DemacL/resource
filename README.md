@@ -50,6 +50,11 @@
 [animista](https://animista.net)
 
 
+#### Python 
+
+[pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+
+
 
 
 ### 编程练习 
