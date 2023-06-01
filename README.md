@@ -14,6 +14,8 @@
 
 [medium](https://medium.com)
 
+[learningdaily](https://learningdaily.dev/)
+
 ### ebooks
 [manning](https://www.manning.com)
 
