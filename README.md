@@ -67,7 +67,7 @@
 
 [leetcode cn](https://leetcode.cn/)
 
-[hackerearth](https://www.hackerearth.com/)
+[hackerearth](https://www.hackerearth.com/practice/)
 
 
 ### 技术问答 
