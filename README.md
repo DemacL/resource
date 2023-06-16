@@ -40,6 +40,8 @@
 
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
+[bignumber](https://github.com/MikeMcl/bignumber.js/)
+
 #### TypeScript
 [TypeScript 入门教程](https://ts.xcatliu.com)
 
