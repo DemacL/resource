@@ -140,6 +140,8 @@
 
 [mathsisfun](https://www.mathsisfun.com)
 
+[mathsisfun 中文版](https://www.shuxuele.com/index.html)
+
 
 ## 英语
 [confusing-words](https://writingexplained.org/confusing-words)
