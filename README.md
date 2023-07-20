@@ -104,6 +104,8 @@
 
 [GitHub 漫游指南](https://github.phodal.com/#/chapter/Github%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97?id=%e4%bb%8b%e7%bb%8d)
 
+[readme生成指南](https://readme.so/)
+
 
 ### 正则
 [ihateregex](https://ihateregex.io/)
@@ -133,7 +135,7 @@
 #### chrome插件
 [广告拦截器adguard](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=zh-CN)
 
-### 设计
+#### 设计
 
 [dribbble](https://dribbble.com)
 
@@ -141,6 +143,7 @@
 
 #### 搜索
 [similarsitesearch](https://www.similarsitesearch.com)
+
 
 ## 数学
 
