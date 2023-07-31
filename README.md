@@ -18,6 +18,8 @@
 
 [learningdaily](https://learningdaily.dev/)
 
+[analyticsindiamag](https://analyticsindiamag.com/)
+
 ### ebooks
 [manning](https://www.manning.com)
 
