@@ -63,6 +63,8 @@
 
 [cssgrid-generator](https://cssgrid-generator.netlify.app/)
 
+[cssgenerator](https://cssgenerator.org/box-shadow-css-generator.html)
+
 
 #### Python 
 
