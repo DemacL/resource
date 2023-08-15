@@ -46,6 +46,8 @@
 
 [bignumber](https://github.com/MikeMcl/bignumber.js/)
 
+[beautifier js](https://beautifier.io/)
+
 #### TypeScript
 [TypeScript 入门教程](https://ts.xcatliu.com)
 
