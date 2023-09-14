@@ -6,6 +6,8 @@
 
 [小林coding](https://xiaolincoding.com)
 
+[labuladong](https://labuladong.github.io/algo/)
+
 [web.dev](https://web.dev)
 
 [dev.to](https://dev.to)
