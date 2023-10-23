@@ -136,6 +136,9 @@
 
 ### 工具
 
+#### binaryconvert
+[binaryconvert](https://www.binaryconvert.com/)
+
 #### 在线工具列表
 [在线工具](https://github.com/zhaoolee/OnlineToolsBook)
 
