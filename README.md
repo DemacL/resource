@@ -1,5 +1,9 @@
 ## 计算机
 
+### AI
+
+[pdf ai](https://www.anthropic.com/)
+
 ### blog
 
 [matrix67](http://www.matrix67.com/blog/)
