@@ -2,7 +2,7 @@
 
 ### AI
 
-[pdf ai](https://www.anthropic.com/)
+[Claude](https://www.anthropic.com/)
 
 ### blog
 
