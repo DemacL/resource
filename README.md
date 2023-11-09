@@ -4,6 +4,8 @@
 
 [Claude](https://www.anthropic.com/)
 
+[machinelearningmastery](https://machinelearningmastery.com/start-here/)
+
 ### blog
 
 [matrix67](http://www.matrix67.com/blog/)
