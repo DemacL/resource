@@ -31,6 +31,8 @@
 ### ebooks
 [manning](https://www.manning.com)
 
+[goodreads](https://www.goodreads.com/)
+
 [book](https://www.goodreads.com/book/similar/20545745-the-5-elements-of-effective-thinking)
 
 ### 函数式编程 FP
