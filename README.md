@@ -6,6 +6,8 @@
 
 [machinelearningmastery](https://machinelearningmastery.com/start-here/)
 
+[easyai](https://easyai.tech/)
+
 ### blog
 
 [matrix67](http://www.matrix67.com/blog/)
