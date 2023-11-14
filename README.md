@@ -8,6 +8,11 @@
 
 [easyai](https://easyai.tech/)
 
+
+### 线性代数
+[linear algebra](http://immersivemath.com/ila/index.html)
+
+
 ### blog
 
 [matrix67](http://www.matrix67.com/blog/)
