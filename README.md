@@ -12,6 +12,8 @@
 ### 线性代数
 [linear algebra](http://immersivemath.com/ila/index.html)
 
+[资源]https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA
+
 
 ### blog
 
