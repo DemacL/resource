@@ -48,6 +48,14 @@
 
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
 
+
+### 数据结构
+
+#### 链表
+
+[反转链表](https://medium.com/the-core/how-to-recursively-reverse-a-linked-list-9990d59fc13f)
+
+
 ### 编程语言
 
 #### JavaScript JS
