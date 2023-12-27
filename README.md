@@ -44,6 +44,8 @@
 
 [book](https://www.goodreads.com/book/similar/20545745-the-5-elements-of-effective-thinking)
 
+[refactor-like-a-superhero](https://refactor-like-a-superhero.vercel.app/en#toc)
+
 ### 函数式编程 FP
 
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
