@@ -46,6 +46,8 @@
 
 [refactor-like-a-superhero](https://refactor-like-a-superhero.vercel.app/en#toc)
 
+[97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know/tree/master)
+
 ### 函数式编程 FP
 
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
