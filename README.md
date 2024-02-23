@@ -100,6 +100,7 @@
 
 [cssgenerator](https://cssgenerator.org/box-shadow-css-generator.html)
 
+[svg-tutorial](https://svg-tutorial.com/)
 
 #### Python 
 
