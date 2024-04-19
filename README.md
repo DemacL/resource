@@ -55,6 +55,9 @@
 
 ### 数据结构
 
+###
+[oi-wiki信息学奥林匹克竞赛](https://oi-wiki.org/)
+
 #### 链表
 
 [反转链表](https://medium.com/the-core/how-to-recursively-reverse-a-linked-list-9990d59fc13f)
