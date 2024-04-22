@@ -53,16 +53,36 @@
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
 
 
-### 算法与数据结构
+### 算法
+#### 算法可视化
+[visualgo](https://visualgo.net)
+
+[usfca](https://www.cs.usfca.edu/~galles/visualization/DFS.html)
+
+[hello-algo](https://www.hello-algo.com/)
+
+### 数据结构
 
 ###
 [oi-wiki信息学奥林匹克竞赛](https://oi-wiki.org/)
 
-[hello-algo](https://www.hello-algo.com/)
-
 #### 链表
 
 [反转链表](https://medium.com/the-core/how-to-recursively-reverse-a-linked-list-9990d59fc13f)
+
+
+### 设计模式
+
+[refactoringguru](https://refactoringguru.cn/design-patterns)
+
+[sourcemaking](https://sourcemaking.com/design_patterns)
+
+[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
+
+[图解设计模式](https://github.com/xongEr/Book/blob/master/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
+[design-patterns-in-java](http://integu.net/design-patterns-in-java/)
+
 
 
 ### 编程语言
@@ -133,24 +153,6 @@
 
 ### markdown 
 [markdownguide](https://www.markdownguide.org/basic-syntax/)
-
-### 算法
-#### 算法可视化
-[visualgo](https://visualgo.net)
-
-[usfca](https://www.cs.usfca.edu/~galles/visualization/DFS.html)
-
-### 设计模式
-
-[refactoringguru](https://refactoringguru.cn/design-patterns)
-
-[sourcemaking](https://sourcemaking.com/design_patterns)
-
-[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
-
-[图解设计模式](https://github.com/xongEr/Book/blob/master/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
-
-[design-patterns-in-java](http://integu.net/design-patterns-in-java/)
 
 
 ### Git
