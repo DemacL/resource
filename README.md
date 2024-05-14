@@ -84,6 +84,8 @@
 [design-patterns-in-java](http://integu.net/design-patterns-in-java/)
 
 
+### 系统
+[system-design 图解系统设计](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file#rest-api-vs-graphql)
 
 ### 编程语言
 
