@@ -37,7 +37,6 @@
 
 [analyticsindiamag](https://analyticsindiamag.com/)
 
-[ishadeeds设计](https://ishadeed.com/)
 
 ### ebooks
 [manning](https://www.manning.com)
@@ -130,6 +129,8 @@
 [cssgenerator](https://cssgenerator.org/box-shadow-css-generator.html)
 
 [svg-tutorial](https://svg-tutorial.com/)
+
+[ishadeeds css 设计 博客](https://ishadeed.com/)
 
 [css-has-guide](https://ishadeed.com/article/css-has-guide/)
 
