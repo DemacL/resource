@@ -37,6 +37,8 @@
 
 [analyticsindiamag](https://analyticsindiamag.com/)
 
+[google blog](https://testing.googleblog.com/)
+
 
 ### ebooks
 [manning](https://www.manning.com)
