@@ -40,6 +40,10 @@
 [google blog](https://testing.googleblog.com/)
 
 
+### 网络HTTP
+
+[media-types](https://www.iana.org/assignments/media-types/media-types.xhtml)
+
 ### ebooks
 [manning](https://www.manning.com)
 
