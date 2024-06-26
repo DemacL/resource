@@ -8,6 +8,7 @@
 
 [easyai](https://easyai.tech/)
 
+[midjourneysref](https://midjourneysref.com/)
 
 ### 线性代数
 [linear algebra](http://immersivemath.com/ila/index.html)
