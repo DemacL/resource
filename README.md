@@ -46,6 +46,8 @@
 [media-types](https://www.iana.org/assignments/media-types/media-types.xhtml)
 
 ### ebooks
+[librumreader reader](https://librumreader.com/)
+
 [manning](https://www.manning.com)
 
 [goodreads](https://www.goodreads.com/)
