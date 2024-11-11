@@ -101,6 +101,8 @@
 ### 系统
 [system-design 图解系统设计](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file#rest-api-vs-graphql)
 
+[系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview)
+
 ### 编程语言
 
 #### JavaScript JS
