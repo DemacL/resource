@@ -64,6 +64,8 @@
 
 [深入理解计算机系统](https://hansimov.gitbook.io/csapp)
 
+[The_Magical_Number_4_in_Short-Term_Memory](https://www.researchgate.net/publication/11830840_The_Magical_Number_4_in_Short-Term_Memory_A_Reconsideration_of_Mental_Storage_Capacity)
+
 ### 函数式编程 FP
 
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
