@@ -18,6 +18,8 @@
 
 ### blog
 
+[自由蓝星虚拟社区](https://www.freeblueplanet.com/)
+
 [matrix67](http://www.matrix67.com/blog/)
 
 [小林coding](https://xiaolincoding.com)
